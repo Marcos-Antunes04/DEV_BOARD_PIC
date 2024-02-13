@@ -1,0 +1,280 @@
+Added Component: Designator=8MHZ(LFXTAL030234Reel)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LFXTAL030234REEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lfxtal030234reel/iqd-frequency-products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.fr/datasheet/2/741/LFXTAL030234Reel-996371.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "IQD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LFXTAL030234Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "449-LFXTAL030234REEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL030234Reel?qs=e4%2FAndAAwgKRGsJIO2WnVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(FP-C0805C-DN-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "22 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 22PF 100V 5% NP0 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C220J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Multilayer Ceramic Capacitor, C Series, 22 Pf, - 5%, C0g / Np0, 100 V, 0805 [2012 Metric] Rohs Compliant: Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c220j1gactu-kemet-3791395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X94X50LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08055C104JAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X94X50LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08055C104JAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP-C0805C-DN-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "22 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 22PF 100V 5% NP0 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C220J1GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Multilayer Ceramic Capacitor, C Series, 22 Pf, - 5%, C0g / Np0, 100 V, 0805 [2012 Metric] Rohs Compliant: Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c220j1gactu-kemet-3791395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIP1550W56P254L5219H483Q40N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC16F877A-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic16f877a-ep/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-18/DSA-359049.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC16F877A-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-PIC16F877A-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC16F877A-E-P?qs=oKK8NaWdAJsQw%252B2Y417CHw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(RHDR20W76P0X254_1X20_5080X356X889P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/6-534237-8/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/6-534237-8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/6-534237-8?qs=xDp7PGUNC%252BtPvTSnQ1ELZA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(RHDR20W76P0X254_1X20_5080X356X889P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/6-534237-8/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/6-534237-8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6-534237-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/6-534237-8?qs=xDp7PGUNC%252BtPvTSnQ1ELZA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDRV6W66P0X254_1X6_1524X254X874P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M20-999.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-9990645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M20-9990645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/M20-9990645?qs=Jph8NoUxIfWe7BJQOhiVRg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X60X35NL10T20)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Component: Designator=S1(COM12992)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "COM-12992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/com-12992/sparkfun-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.sparkfun.com/datasheets/Components/Switches/COM-12922_datasheet%20SW-033.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "COM-12992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "474-COM-12992"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SparkFun/COM-12992?qs=WyAARYrbSnYTYDS2ryqd9A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=S1-C1
+Added Net: Name=GND
+Added Pin To Net: NetName=MCLR/VPP Pin=IC1-1
+Added Pin To Net: NetName=MCLR/VPP Pin=J1-20
+Added Pin To Net: NetName=MCLR/VPP Pin=J3-6
+Added Pin To Net: NetName=MCLR/VPP Pin=S1-B1
+Added Net: Name=MCLR/VPP
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=S1-A1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=OSC1/CLKI Pin=C1-1
+Added Pin To Net: NetName=OSC1/CLKI Pin=IC1-13
+Added Pin To Net: NetName=OSC1/CLKI Pin=J1-8
+Added Net: Name=OSC1/CLKI
+Added Pin To Net: NetName=OSC2/CLKO Pin=8MHZ-2
+Added Pin To Net: NetName=OSC2/CLKO Pin=C4-1
+Added Pin To Net: NetName=OSC2/CLKO Pin=IC1-14
+Added Pin To Net: NetName=OSC2/CLKO Pin=J1-7
+Added Net: Name=OSC2/CLKO
+Added Pin To Net: NetName=RA0 Pin=IC1-2
+Added Pin To Net: NetName=RA0 Pin=J1-19
+Added Net: Name=RA0
+Added Pin To Net: NetName=RA1 Pin=IC1-3
+Added Pin To Net: NetName=RA1 Pin=J1-18
+Added Net: Name=RA1
+Added Pin To Net: NetName=RA2 Pin=IC1-4
+Added Pin To Net: NetName=RA2 Pin=J1-17
+Added Net: Name=RA2
+Added Pin To Net: NetName=RA3 Pin=IC1-5
+Added Pin To Net: NetName=RA3 Pin=J1-16
+Added Net: Name=RA3
+Added Pin To Net: NetName=RA4 Pin=IC1-6
+Added Pin To Net: NetName=RA4 Pin=J1-15
+Added Net: Name=RA4
+Added Pin To Net: NetName=RA5 Pin=IC1-7
+Added Pin To Net: NetName=RA5 Pin=J1-14
+Added Net: Name=RA5
+Added Pin To Net: NetName=RB0 Pin=IC1-33
+Added Pin To Net: NetName=RB0 Pin=J2-8
+Added Net: Name=RB0
+Added Pin To Net: NetName=RB1 Pin=IC1-34
+Added Pin To Net: NetName=RB1 Pin=J2-7
+Added Net: Name=RB1
+Added Pin To Net: NetName=RB2 Pin=IC1-35
+Added Pin To Net: NetName=RB2 Pin=J2-6
+Added Net: Name=RB2
+Added Pin To Net: NetName=RB3 Pin=IC1-36
+Added Pin To Net: NetName=RB3 Pin=J2-5
+Added Pin To Net: NetName=RB3 Pin=J3-1
+Added Net: Name=RB3
+Added Pin To Net: NetName=RB4 Pin=IC1-37
+Added Pin To Net: NetName=RB4 Pin=J2-4
+Added Net: Name=RB4
+Added Pin To Net: NetName=RB5 Pin=IC1-38
+Added Pin To Net: NetName=RB5 Pin=J2-3
+Added Net: Name=RB5
+Added Pin To Net: NetName=RB6 Pin=IC1-39
+Added Pin To Net: NetName=RB6 Pin=J2-2
+Added Pin To Net: NetName=RB6 Pin=J3-2
+Added Net: Name=RB6
+Added Pin To Net: NetName=RB7 Pin=IC1-40
+Added Pin To Net: NetName=RB7 Pin=J2-1
+Added Pin To Net: NetName=RB7 Pin=J3-3
+Added Net: Name=RB7
+Added Pin To Net: NetName=RC0 Pin=IC1-15
+Added Pin To Net: NetName=RC0 Pin=J1-6
+Added Net: Name=RC0
+Added Pin To Net: NetName=RC1 Pin=IC1-16
+Added Pin To Net: NetName=RC1 Pin=J1-5
+Added Net: Name=RC1
+Added Pin To Net: NetName=RC2 Pin=IC1-17
+Added Pin To Net: NetName=RC2 Pin=J1-4
+Added Net: Name=RC2
+Added Pin To Net: NetName=RC3 Pin=IC1-18
+Added Pin To Net: NetName=RC3 Pin=J1-3
+Added Net: Name=RC3
+Added Pin To Net: NetName=RC4 Pin=IC1-23
+Added Pin To Net: NetName=RC4 Pin=J2-18
+Added Net: Name=RC4
+Added Pin To Net: NetName=RC5 Pin=IC1-24
+Added Pin To Net: NetName=RC5 Pin=J2-17
+Added Net: Name=RC5
+Added Pin To Net: NetName=RC6 Pin=IC1-25
+Added Pin To Net: NetName=RC6 Pin=J2-16
+Added Net: Name=RC6
+Added Pin To Net: NetName=RC7 Pin=IC1-26
+Added Pin To Net: NetName=RC7 Pin=J2-15
+Added Net: Name=RC7
+Added Pin To Net: NetName=RD0 Pin=IC1-19
+Added Pin To Net: NetName=RD0 Pin=J1-2
+Added Net: Name=RD0
+Added Pin To Net: NetName=RD1 Pin=IC1-20
+Added Pin To Net: NetName=RD1 Pin=J1-1
+Added Net: Name=RD1
+Added Pin To Net: NetName=RD2 Pin=IC1-21
+Added Pin To Net: NetName=RD2 Pin=J2-20
+Added Net: Name=RD2
+Added Pin To Net: NetName=RD3 Pin=IC1-22
+Added Pin To Net: NetName=RD3 Pin=J2-19
+Added Net: Name=RD3
+Added Pin To Net: NetName=RD4 Pin=IC1-27
+Added Pin To Net: NetName=RD4 Pin=J2-14
+Added Net: Name=RD4
+Added Pin To Net: NetName=RD5 Pin=IC1-28
+Added Pin To Net: NetName=RD5 Pin=J2-13
+Added Net: Name=RD5
+Added Pin To Net: NetName=RD6 Pin=IC1-29
+Added Pin To Net: NetName=RD6 Pin=J2-12
+Added Net: Name=RD6
+Added Pin To Net: NetName=RD7 Pin=IC1-30
+Added Pin To Net: NetName=RD7 Pin=J2-11
+Added Net: Name=RD7
+Added Pin To Net: NetName=RE0 Pin=IC1-8
+Added Pin To Net: NetName=RE0 Pin=J1-13
+Added Net: Name=RE0
+Added Pin To Net: NetName=RE1 Pin=IC1-9
+Added Pin To Net: NetName=RE1 Pin=J1-12
+Added Net: Name=RE1
+Added Pin To Net: NetName=RE2 Pin=IC1-10
+Added Pin To Net: NetName=RE2 Pin=J1-11
+Added Net: Name=RE2
+Added Pin To Net: NetName=VDD Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=C3-2
+Added Pin To Net: NetName=VDD Pin=IC1-11
+Added Pin To Net: NetName=VDD Pin=IC1-32
+Added Pin To Net: NetName=VDD Pin=J1-10
+Added Pin To Net: NetName=VDD Pin=J2-9
+Added Pin To Net: NetName=VDD Pin=J3-5
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Net: Name=VDD
+Added Class: Name=Schematics
